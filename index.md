@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "My Blog Title"
+title: "What Assam Government Tenders Reveal About How India's Public Money Is Spent"
 date: 2026-04-28
 ---
-
-# What Assam Government Tenders Reveal About How India's Public Money Is Spent
 
 Every year, Indian governments spend roughly a quarter of GDP through public procurement. This data is not publicly available and is extremely fragmented, which holds the question of how it is being spent, and if it contributing to development and infrastructure of the country. Assam is one of the few states which adheres to the OCDS mapping of data, and has this information available. We took three years of post-pandemic spending, FY 2020–21 through FY 2022–23, to perform analysis on this subset of data. 
 
@@ -93,7 +91,7 @@ value of the top suppliers and how much market share they actually occupy.
 *Figure 2: Lorenz curves for supplier award values by derived sector. Steeper curve = higher
 inequality. The diagonal at 45 degrees represents perfect equality.*
 
-![HHI by Sector and Buyer](figures/hhi_heatmap.png)
+![HHI by Sector and Buyer]([figures/hhi_heatmap.png](https://github.com/Prabhpeep/DSM_Final/blob/main/reports/figures/hhi_heatmap.png))
 *Figure 3: HHI heatmap across buyer × sector combinations. The darker colour indicates a high
 concentration. We can observe that many cells exceed the 2,500 "highly concentrated" threshold.*
 
