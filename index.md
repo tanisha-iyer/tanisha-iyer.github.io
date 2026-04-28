@@ -91,7 +91,7 @@ value of the top suppliers and how much market share they actually occupy.
 *Figure 2: Lorenz curves for supplier award values by derived sector. Steeper curve = higher
 inequality. The diagonal at 45 degrees represents perfect equality.*
 
-![HHI by Sector and Buyer](https://github.com/tanisha-iyer/tanisha-iyer.github.io/blob/main/images/hhi_heatmap.png)
+![HHI by Sector and Buyer](images/hhi_heatmap.png)
 *Figure 3: HHI heatmap across buyer × sector combinations. The darker colour indicates a high
 concentration. We can observe that many cells exceed the 2,500 "highly concentrated" threshold.*
 
@@ -276,7 +276,7 @@ This is a general lesson for anyone building composite risk indices from adminis
 data: **the denominator matters as much as the numerator.** A percentile rank is only
 meaningful if it is computed over a distribution with enough mass to be stable.
 
-![Composite Risk Heatmap](figures/composite_heatmap.png)
+![Composite Risk Heatmap](images/composite_heatmap.png)
 *Figure 5: Composite structural risk scores by buyer × sector, minimum 15 tenders.
 Darker cells indicate higher composite risk. The largest cells by tender count are
 labelled.*
@@ -295,7 +295,7 @@ this indicator.
 The **Department of Housing and Urban Affairs (buildings)** also flags with a 16.7%
 single-bidder rate — elevated relative to the buildings sector baseline, if less extreme.
 
-![Single-Bidder Rate by Sector](figures/single_bidder_by_sector.png)
+![Single-Bidder Rate by Sector](single_bidder_by_sector.png)
 *Figure 6: Single-bidder rate by sector and buyer. The Department of Cultural Affairs
 cell (61.0%) is a clear outlier at roughly 10× the global baseline.*
 
@@ -307,7 +307,7 @@ significant bunching. The ₹1 Crore threshold triggers a distinct level of admi
 oversight under domestic procurement rules; the bunching pattern is consistent with
 contract sizing behaviour designed to avoid that trigger.
 
-![Threshold Bunching](figures/threshold_bunching_all.png)
+![Threshold Bunching](threshold_bunching_all.png)
 *Figure 7: Density of tender values around statutory thresholds. The ₹1 Crore threshold
 shows an excess mass ratio of ~1.7. The ₹25 Lakh and ₹10 Crore thresholds are quiet.*
 
@@ -469,7 +469,7 @@ powerful. That is work for a future iteration.
 
 ---
 
-## What we couldn't measure
+## Constraints 
 
 Every dataset has a boundary. These are ours — framed not as failures but as the most
 productive directions for future work.
