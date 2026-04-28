@@ -87,15 +87,15 @@ def compute_hhi(values: pd.Series) -> float:
 top 10 suppliers, which a simpler complement to HHI that provides a simple insight into the 
 value of the top suppliers and how much market share they actually occupy. 
 
-![Lorenz Curves by Sector](figures/lorenz_by_sector.png)
+![Lorenz Curves by Sector](images/lorenz_by_sector.png)
 *Figure 2: Lorenz curves for supplier award values by derived sector. Steeper curve = higher
 inequality. The diagonal at 45 degrees represents perfect equality.*
 
-![HHI by Sector and Buyer](hhi_heatmap.png)
+![HHI by Sector and Buyer](images/hhi_heatmap.png)
 *Figure 3: HHI heatmap across buyer × sector combinations. The darker colour indicates a high
 concentration. We can observe that many cells exceed the 2,500 "highly concentrated" threshold.*
 
-![Top 20 Suppliers by Value](figures/top20_suppliers_anon.png)
+![Top 20 Suppliers by Value](images/top20_suppliers_anon.png)
 *Figure 4: Top 20 suppliers by total award value, anonymised. The decrease from 1 to
 number 20 is a steep line, which is a pattern that is consistent across sectors.*
 
