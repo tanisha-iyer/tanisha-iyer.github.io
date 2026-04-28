@@ -91,7 +91,7 @@ value of the top suppliers and how much market share they actually occupy.
 *Figure 2: Lorenz curves for supplier award values by derived sector. Steeper curve = higher
 inequality. The diagonal at 45 degrees represents perfect equality.*
 
-![HHI by Sector and Buyer]([figures/hhi_heatmap.png](https://github.com/Prabhpeep/DSM_Final/blob/main/reports/figures/hhi_heatmap.png))
+![HHI by Sector and Buyer](https://raw.githubusercontent.com/Prabhpeep/DSM_Final/main/reports/figures/hhi_heatmap.png)
 *Figure 3: HHI heatmap across buyer × sector combinations. The darker colour indicates a high
 concentration. We can observe that many cells exceed the 2,500 "highly concentrated" threshold.*
 
